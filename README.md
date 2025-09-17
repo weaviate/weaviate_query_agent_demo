@@ -1,4 +1,4 @@
-# Weaviate Workshop
+# Query Agent Demo
 
 
 ## Create a Weaviate Cloud instance
@@ -16,7 +16,7 @@
 
 
 
-## Running the workshop
+## Running the notebooks
 
 ### Option 1 - Run locally
 
